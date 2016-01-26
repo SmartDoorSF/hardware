@@ -9,6 +9,10 @@ Chipset Selection
 
 [Design Reference Center](http://infocenter.nordicsemi.com/index.jsp)
 
+[BLE Nano and the nRF51822 SDK fix](https://gist.github.com/george-hawkins/f77054c71a046c5b5f83)
+
+[Red Bear Lab Support Forum](https://redbearlab.zendesk.com/home)
+
 ## Debugger/Programmer
 
 [DIY SWD debuger FTDI2232](http://www.gniibe.org/memo/development/gnuk/hardware/diy-swd-debugger-ftdi2232.html)
