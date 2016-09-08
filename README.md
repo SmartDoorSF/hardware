@@ -32,3 +32,15 @@ Question:
 # RedBearLab Nano Programming
 
 [RedBearLab BLE Nano Programmin](https://www.youtube.com/watch?v=zk-DurzSisk)
+
+# CC3000
+
+TI CC3000 doesn't support SoftAP which makes itself can not serve as an AP. But when another WIFI device works under hotspot(AP) mode
+CC3000 can simulate (P2P direct) WIFI actions
+
+# Electric Strike
+
+## Relay
+Songle SRD 05VDC SL C 
+
+5V Relay
