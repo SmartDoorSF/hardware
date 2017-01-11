@@ -44,3 +44,7 @@ CC3000 can simulate (P2P direct) WIFI actions
 Songle SRD 05VDC SL C 
 
 5V Relay
+
+# PCB Layout
+
+[nRF51822 with Antenna](https://github.com/lab11/nucleum)
