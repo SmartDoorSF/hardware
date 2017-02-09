@@ -2,3 +2,21 @@
 [PH Connector 2.mm pitch crimp type connector](http://www.jst-mfg.com/product/pdf/eng/ePH.pdf)
 TOP Entry type:
 B2B-PH-K-S
+
+Thermal 
+
+Temperature range
+
+Contact resistance
+
+Insulation resistance
+
+Application PC board thickness
+
+Mechnical Strength
+
+Center of Gravity
+
+Optical?
+
+Current/Voltage rating and etc.
