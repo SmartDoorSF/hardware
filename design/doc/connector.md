@@ -20,3 +20,14 @@ Center of Gravity
 Optical?
 
 Current/Voltage rating and etc.
+
+
+## JST
+[JST Connector/Terminal Selector](http://jst.com/home2.html)
+[Product catelog](http://www.jst-mfg.com/index_e.php)
+
+## Molex
+
+## TE
+
+Other alternatives??
