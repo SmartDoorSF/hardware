@@ -1,0 +1,1 @@
+[How can I calculate the temperature rise of a circuit board given certain heat](http://engineering.stackexchange.com/questions/2217/how-can-i-calculate-the-temperature-rise-of-a-circuit-board-for-a-given-power-di)
